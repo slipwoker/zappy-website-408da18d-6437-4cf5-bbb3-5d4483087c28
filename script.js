@@ -1438,6 +1438,21 @@ window.onload = function() {
 })();
 
 
+/* Added Component Script */
+document.addEventListener('DOMContentLoaded', function () {
+  const videoThumbs = document.querySelectorAll('.hag-video-thumb');
+
+  videoThumbs.forEach(function (thumb) {
+    thumb.addEventListener('click', function () {
+      const videoId = this.getAttribute('data-video-id');
+      // Placeholder for video play functionality
+      // In production, this would open a modal/lightbox or navigate to video URL
+      console.log('Video ' + videoId + ' clicked — ready for integration');
+    });
+  });
+});
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
