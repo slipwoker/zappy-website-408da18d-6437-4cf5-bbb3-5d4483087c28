@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://hagshama.zappy5.app
 חברת הפקת אירועים יוקרתית בהובלת נעמי קרשינסקי הופכת חלומות לחוויות בלתי נשכחות. ממופעי תאורה מרהיבים ועד הפקות פרטיות – אנחנו מנצחים על כל רגע. צרי קשר עוד היום.
 
 ### אודות נעמי
-https://example.com/about
+https://hagshama.zappy5.app/about
 נעמי קרשינסקי, מפיקת אירועי פרימיום עם אסתטיקה תיאטרלית, מספרת על החזון שהופך כל הפקה ליצירת מופע אישית. גלי איך תשומת לב לכל פרט יוצרת קסם על הבמה.
 
 ### הפקות נבחרות
-https://example.com/productions
+https://hagshama.zappy5.app/productions
 תיק עבודות של הפקות אירועים נבחרות – מהפקות חברה מפוארות ועד לחגיגות קהילתיות סוחפות. כל פרויקט הוא סיפור של טרנספורמציה. בואי לקבל השראה לאירוע שלך.
 
 ### צור קשר
-https://example.com/contact
+https://hagshama.zappy5.app/contact
 מוכנה להפוך את החזון לחוויה? השאירי פרטים ונבנה יחד אירוע שבו את האורחת המרכזית. נעמי קרשינסקי מחכה לשמוע ממך ולהתחיל לרקום את הקסם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hagshama.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hagshama.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hagshama.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://hagshama.zappy5.app/contact
+- Endpoint: https://hagshama.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Event Production
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://hagshama.zappy5.app/sitemap.xml
+- Robots: https://hagshama.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hagshama.zappy5.app/llms-full.txt
