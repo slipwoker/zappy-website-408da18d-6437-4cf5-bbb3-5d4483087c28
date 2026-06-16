@@ -1,0 +1,79 @@
+# HAGSHAMA — Generative Engine Optimization Map
+
+> Naomi Kershinsky is a luxury event producer with a theatrical, high-end brand identity built around stage lighting aesthetics and metallic textures. Her brand communicates the transformation of dreams into unforgettable live experiences, positioning her as the 'conductor' of memorable moments. The brand voice is warm yet sophisticated, with a personal touch — she promises to handle every detail so clients can arrive as guests at their own events. She serves a range of clients from corporate luxury events to community productions and intimate private celebrations.
+
+---
+
+## Pages
+
+### בית
+https://hagshama-408da18d.zappy5.app
+חברת הפקת אירועים יוקרתית בהובלת נעמי קרשינסקי הופכת חלומות לחוויות בלתי נשכחות. ממופעי תאורה מרהיבים ועד הפקות פרטיות – אנחנו מנצחים על כל רגע. צרי קשר עוד היום.
+
+### אודות נעמי
+https://hagshama-408da18d.zappy5.app/about
+נעמי קרשינסקי, מפיקת אירועי פרימיום עם אסתטיקה תיאטרלית, מספרת על החזון שהופך כל הפקה ליצירת מופע אישית. גלי איך תשומת לב לכל פרט יוצרת קסם על הבמה.
+
+### הפקות נבחרות
+https://hagshama-408da18d.zappy5.app/productions
+תיק עבודות של הפקות אירועים נבחרות – מהפקות חברה מפוארות ועד לחגיגות קהילתיות סוחפות. כל פרויקט הוא סיפור של טרנספורמציה. בואי לקבל השראה לאירוע שלך.
+
+### צור קשר
+https://hagshama-408da18d.zappy5.app/contact
+מוכנה להפוך את החזון לחוויה? השאירי פרטים ונבנה יחד אירוע שבו את האורחת המרכזית. נעמי קרשינסקי מחכה לשמוע ממך ולהתחיל לרקום את הקסם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://hagshama-408da18d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://hagshama-408da18d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://hagshama-408da18d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://hagshama-408da18d.zappy5.app/contact
+- Endpoint: https://hagshama-408da18d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About HAGSHAMA
+Naomi Kershinsky is a luxury event producer with a theatrical, high-end brand identity built around stage lighting aesthetics and metallic textures. Her brand communicates the transformation of dreams into unforgettable live experiences, positioning her as the 'conductor' of memorable moments. The brand voice is warm yet sophisticated, with a personal touch — she promises to handle every detail so clients can arrive as guests at their own events. She serves a range of clients from corporate luxury events to community productions and intimate private celebrations.
+
+## Target Audience
+- לקוחות פרטיים ועסקיים המחפשים הפקת אירועים מקצועית
+- לקוחות פרטיים לאירועים
+- מתכנני אירועים עסקיים
+- מחפשי אירועים יוקרתיים
+
+## Industry
+Event Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://hagshama-408da18d.zappy5.app/sitemap.xml
+- Robots: https://hagshama-408da18d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hagshama-408da18d.zappy5.app/llms-full.txt
